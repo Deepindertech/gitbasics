@@ -1,16 +1,19 @@
 # Git Basics
 
-This repository is created to learn Git and GitHub from scratch.
+This repository demonstrates my step-by-step learning of Git and GitHub,
+following professional workflows used in real teams.
 
-Author: Deepinder Kaur  
-Email: deepinderdev@gmail.com
+## What I Practiced
+- Git initialization and configuration
+- Clean commit history
+- File staging and snapshots
+- Branch-based workflow
+- README documentation
 
-Goal:
-- Learn Git fundamentals
-- Practice daily commits
-- Build a professional GitHub profile
-## Goals
+## Why This Repository
+This project is part of my preparation for remote software roles
+and professional collaboration.
 
-- Learn Git step by step
-- Build strong GitHub profile
-- Prepare for remote jobs
+## Author
+Deepinder Kaur  
+📧 deepinderdev@gmail.com
