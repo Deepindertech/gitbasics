@@ -9,3 +9,8 @@ Goal:
 - Learn Git fundamentals
 - Practice daily commits
 - Build a professional GitHub profile
+## Goals
+
+- Learn Git step by step
+- Build strong GitHub profile
+- Prepare for remote jobs
