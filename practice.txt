@@ -1,0 +1,4 @@
+Git Practice Day 2
+
+I am practicing Git add, commit, and push.
+This file is created only for learning.
