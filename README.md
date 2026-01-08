@@ -16,8 +16,6 @@ and professional collaboration.
 
 ## Author
 Deepinder Kaur  
-📧 deepinderdev@gmail.com
+📧 deepinderdev@gmail.com  
 
-
-## Author
-i love my work and believe in stay to update
+I love my work and believe in staying up to date.
