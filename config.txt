@@ -1,4 +1,4 @@
 APP_NAME=GitProject
-ENV=production
-LOG_LEVEL=info
+ENV=staging
+LOG_LEVEL=debug
 TIMEZONE=UTC
